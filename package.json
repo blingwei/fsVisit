@@ -1,0 +1,47 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "A web side framework based on KOA2",
+  "main": "server.js",
+  "scripts": {
+    "test": "set DEBUG=true&&\"node_modules/.bin/mocha\" --harmony --reporter spec app/test/*.test.js",
+    "start": "set NODE_ENV=development&&node server  -p 4000  -g postgres://postgres:lw19971110@localhost:5432/Visit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blingwei/web-koa2.git"
+  },
+  "keywords": [
+    "web",
+    "framework",
+    "koa2"
+  ],
+  "author": "liang wei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blingwei/web-koa2/issues"
+  },
+  "homepage": "https://github.com/blingwei/web-koa2#readme",
+  "dependencies": {
+    "args": "^5.0.1",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-csrf": "^3.0.8",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^9.4.0",
+    "koa-session": "^6.0.0",
+    "koa-sslify": "^4.0.3",
+    "koa-static": "^5.0.0",
+    "koa2-cors": "^2.0.6",
+    "moment": "^2.27.0",
+    "pg": "^8.3.3",
+    "redis": "^3.0.2",
+    "require-directory": "^2.1.1",
+    "sequelize": "^6.3.4",
+    "superagent": "^6.1.0",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "socket.io": "^2.3.0"
+  }
+}

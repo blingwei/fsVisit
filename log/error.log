@@ -1,0 +1,40 @@
+2020-09-03 09:19:31 error: uncaughtException: config.models is not a function
+TypeError: config.models is not a function
+    at module.exports (F:\freesun\code\FreesunVisit\web-api\utils\dc.js:24:12)
+    at Object.<anonymous> (F:\freesun\code\FreesunVisit\web-api\server.js:94:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1047:10)
+    at internal/main/run_main_module.js:17:11
+2020-09-03 09:19:59 error: uncaughtException: config.models is not a function
+TypeError: config.models is not a function
+    at module.exports (F:\freesun\code\FreesunVisit\web-api\utils\dc.js:24:12)
+    at Object.<anonymous> (F:\freesun\code\FreesunVisit\web-api\server.js:94:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1047:10)
+    at internal/main/run_main_module.js:17:11
+2020-09-03 09:22:31 error: uncaughtException: config.models is not a function
+TypeError: config.models is not a function
+    at module.exports (F:\freesun\code\FreesunVisit\web-api\utils\dc.js:24:12)
+    at Object.<anonymous> (F:\freesun\code\FreesunVisit\web-api\server.js:94:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1047:10)
+    at internal/main/run_main_module.js:17:11
+2020-09-03 09:23:11 error: uncaughtException: config.models is not a function
+TypeError: config.models is not a function
+    at module.exports (F:\freesun\code\FreesunVisit\web-api\utils\dc.js:24:12)
+    at Object.<anonymous> (F:\freesun\code\FreesunVisit\web-api\server.js:94:13)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1047:10)
+    at internal/main/run_main_module.js:17:11

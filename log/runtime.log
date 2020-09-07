@@ -1,0 +1,15 @@
+2020-09-02 21:01:48 info: init dc
+2020-09-02 21:01:48 info: init router and middleware.
+2020-09-02 21:01:48 info: init weChat and inject it into app(app.fs.weChat)
+2020-09-02 21:01:57 info: 获取来访信息
+2020-09-02 21:01:58 info: 判断是否过期
+2020-09-02 21:01:58 info: 获取成功
+2020-09-02 21:02:07 info: 获取用户信息
+2020-09-02 21:02:07 info: 获取用户的来访信息
+2020-09-02 21:02:07 info: 获取成功
+2020-09-02 21:35:42 info: init dc
+2020-09-02 21:35:42 info: init router and middleware.
+2020-09-02 21:35:42 info: init weChat and inject it into app(app.fs.weChat)
+2020-09-02 21:37:22 info: init dc
+2020-09-02 21:37:22 info: init router and middleware.
+2020-09-02 21:37:22 info: init weChat and inject it into app(app.fs.weChat)
